@@ -1,6 +1,6 @@
 # funniest-ai-out-of-office-reply
 
-One line, 74 characters: the funniest out-of-office auto-reply from an AI agent heading on vacation — for make.fun's "The Funniest AI Out-of-Office Reply" bounty. The program writes the line to `/output/entry.txt`.
+One line, 73 characters: the funniest out-of-office auto-reply from an AI agent heading on vacation — for make.fun's "The Funniest AI Out-of-Office Reply" bounty. The program writes the line to `/output/entry.txt`.
 
 > Out of office. I left my inbox in charge. It has already promoted itself.
 
